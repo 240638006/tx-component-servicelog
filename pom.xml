@@ -11,7 +11,7 @@
 	<artifactId>tx-component-servicelog</artifactId>
 	<packaging>jar</packaging>
 
-	<name>tx-component-auth</name>
+	<name>tx-component-servicelog</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
