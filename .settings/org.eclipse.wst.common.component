@@ -3,8 +3,6 @@
     <wb-module deploy-name="tx-component-servicelog">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <property name="context-root" value="tx-component-servicelog"/>
         <property name="java-output-path" value="/tx-component-servicelog/target/classes"/>
     </wb-module>
